@@ -1,0 +1,1 @@
+docker run --rm -v D:\Developments\2018\ergodox:/keymap potz/ergodox-ez-compiler
